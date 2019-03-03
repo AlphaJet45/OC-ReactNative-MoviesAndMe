@@ -1,5 +1,5 @@
 import React from 'react'
-import { StyleSheet, View, Text, Image, Date } from 'react-native'
+import { StyleSheet, View, Text, Image } from 'react-native'
 
 class FilmItem extends React.Component {
   render() {
